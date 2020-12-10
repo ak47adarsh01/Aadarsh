@@ -1,5 +1,6 @@
-<img align="left" src="HELLO.gif" alt="Illustration of ready" width=350px height=260px/>
+
 ### Hi there, I'm Aadarsh - aka dASTAAN 👋
+<img align="right" src="HELLO.gif" alt="Illustration of ready" width=350px height=260px/>
 
 
 ## Just a another Curious Student!!
