@@ -1,5 +1,5 @@
 
-### Hi there, I'm Aadarsh - aka dASTAAN 👋
+### Hi there, I'm Aadarsh -  👋
 <img align="right" src="HELLO.gif" alt="Illustration of ready" width=350px height=260px/>
 
 
