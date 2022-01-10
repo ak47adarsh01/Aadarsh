@@ -6,7 +6,7 @@
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Adarsh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar-a8367422a/)
-[![Leetcode Badge](https://img.shields.io/badge/leetcode-Adarsh-yellow)](https://leetcode.com/dastaan786/) 
+[![Leetcode Badge](https://img.shields.io/badge/leet-code-yellow)](https://leetcode.com/dastaan786/) 
 
 ## Just a another Curious Student!!
 
