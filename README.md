@@ -5,16 +5,21 @@
 
 ## Just a another Curious Student!!
 
-- 🔭 I am currently working on my first Website
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Final year CSE student
+- 🌱 React JS & Node Js newbie
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am Noob.
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Cyber Security enthusiast
 
-### Spotify Playing 🎧
+Enthusiastic final year
+engineering student versed in reviewing plans, writing reports, researching solutions and
+implementing company procedures. Willingness to learn,
+follow instructions and work cooperatively within team environments
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/7lU97qE3TN6fmF2f6ncoel)
+<img  align ="left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=ak47adarsh01&show_icons=true&theme=radical" />
+
+<img  align= "left" width = "47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak47adarsh01&layout=compact" />
 
 
-## How to reach me 📫: <img align="left" width="200" height="150" src="WROKING.gif">
-- Get in touch via <a href="https://www.linkedin.com/in/adarsh-kumar-6b237b174/">Linkedin</a>
+
+
