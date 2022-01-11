@@ -5,8 +5,10 @@
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Adarsh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar-a8367422a/)
-[![Leetcode Badge](https://img.shields.io/badge/leet-code-yellow)](https://leetcode.com/dastaan786/) 
+<a href="https://linkedin.com/in/adarsh-kumar-a8367422a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-kumar-a8367422a" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dastaan786" height="30" width="40" />
+  </a>
+<a href="https://hashnode.com/@dastaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dastaan" height="30" width="40" />
 
 ## Just a another Curious Student!!
 
