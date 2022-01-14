@@ -5,7 +5,7 @@
 
 :mailbox: Reach me out!
 
-<a href="https://linkedin.com/in/adarsh-kumar-a8367422a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-kumar-a8367422a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ak47adarsh01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh-kumar-a8367422a" height="30" width="40" /></a>
 <a href="https://instagram.com/theangryengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theangryengineer" height="30" width="40" /></a>
 <a href="https://hashnode.com/@dastaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@dastaan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dastaan786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dastaan786" height="30" width="40" /></a>
