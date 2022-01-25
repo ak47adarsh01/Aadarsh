@@ -29,6 +29,6 @@ follow instructions and work cooperatively within team environments
 
 <img  align ="left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=ak47adarsh01&show_icons=true&theme=radical" />
 
-<img  align= "left" width = "47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-eon&theme=tokyonight&layout=compact" />
+<img  align= "left" width = "47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak47adarsh01&theme=tokyonight&layout=compact" />
 
 
