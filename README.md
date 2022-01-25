@@ -36,7 +36,7 @@ follow instructions and work cooperatively within team environments
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak47adarsh01&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ak47adarsh01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak47adarsh01&show_icons=true&locale=en&theme=tokyonight" alt="ak47adarsh01" /></p>
+<p>&nbsp;<img align="center" width = 47% src="https://github-readme-stats.vercel.app/api?username=ak47adarsh01&show_icons=true&locale=en&theme=tokyonight" alt="ak47adarsh01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ak47adarsh01&&theme=tokyonight" alt="ak47adarsh01" /></p>
+<p><img align="center" width = 47% src="https://github-readme-streak-stats.herokuapp.com/?user=ak47adarsh01&&theme=tokyonight" alt="ak47adarsh01" /></p>
 
